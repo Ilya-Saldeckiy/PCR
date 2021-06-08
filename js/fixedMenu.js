@@ -22,10 +22,10 @@ if( $(window).width() > 2840){
         if(700 > scrolled){
             $(".header-section-fixed").removeClass("fixed-active")
         }
-        if(scrolled > 9500){
+        if(scrolled > 3050){
             $(".header-section-fixed").addClass("fixed-close")
         }
-        if(scrolled < 9500){
+        if(scrolled < 3050){
             $(".header-section-fixed").removeClass("fixed-close")
         }
     }
@@ -40,10 +40,10 @@ if($(window).width()> 1900){
 		if(700 > scrolled){
 			$(".header-section-fixed").removeClass("fixed-active")
 		}
-		if(scrolled > 6250){
+		if(scrolled > 3250){
 			$(".header-section-fixed").addClass("fixed-close")
 		}
-		if(scrolled < 6250){
+		if(scrolled < 3250){
 			$(".header-section-fixed").removeClass("fixed-close")
 		}
 	}
@@ -58,10 +58,10 @@ if( $(window).width() > 1600){
         if(70 > scrolled){
             $(".header-section-fixed").removeClass("fixed-active")
         }
-        if(scrolled > 6250){
+        if(scrolled > 3450){
             $(".header-section-fixed").addClass("fixed-close")
         }
-        if(scrolled < 6250){
+        if(scrolled < 3450){
             $(".header-section-fixed").removeClass("fixed-close")
         }
     }
@@ -76,10 +76,10 @@ if($(window).width()> 1400){
 		if(700 > scrolled){
 			$(".header-section-fixed").removeClass("fixed-active")
 		}
-		if(scrolled > 6350){
+		if(scrolled > 3450){
 			$(".header-section-fixed").addClass("fixed-close")
 		}
-		if(scrolled < 6350){
+		if(scrolled < 3450){
 			$(".header-section-fixed").removeClass("fixed-close")
 		}
 	}
@@ -94,10 +94,10 @@ if($(window).width()> 767){
 		if(600 > scrolled){
 			$(".header-section-fixed").removeClass("fixed-active")
 		}
-		if(scrolled > 6400){
+		if(scrolled > 3750){
 			$(".header-section-fixed").addClass("fixed-close")
 		}
-		if(scrolled < 6400){
+		if(scrolled < 3750){
 			$(".header-section-fixed").removeClass("fixed-close")
 		}
 	}
@@ -112,10 +112,10 @@ if($(window).width()> 400){
 		if(600 > scrolled){
 			$(".header-section-fixed").removeClass("fixed-active")
 		}
-		if(scrolled > 7100){
+		if(scrolled > 3950){
 			$(".header-section-fixed").addClass("fixed-close")
 		}
-		if(scrolled < 7100){
+		if(scrolled < 3950){
 			$(".header-section-fixed").removeClass("fixed-close")
 		}
 	}
@@ -131,10 +131,10 @@ if($(window).width()> 330){
 		if(550 > scrolled){
 			$(".header-section-fixed").removeClass("fixed-active")
 		}
-		if(scrolled > 7100){
+		if(scrolled > 4450){
 			$(".header-section-fixed").addClass("fixed-close")
 		}
-		if(scrolled < 7100){
+		if(scrolled < 4450){
 			$(".header-section-fixed").removeClass("fixed-close")
 		}
 	}
@@ -150,10 +150,10 @@ if($(window).width()> 319){
 		if(550 > scrolled){
 			$(".header-section-fixed").removeClass("fixed-active")
 		}
-		if(scrolled > 7100){
+		if(scrolled > 4550){
 			$(".header-section-fixed").addClass("fixed-close")
 		}
-		if(scrolled < 7100){
+		if(scrolled < 4550){
 			$(".header-section-fixed").removeClass("fixed-close")
 		}
 	}
